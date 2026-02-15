@@ -1,0 +1,5 @@
+organized_train_data/
+histopathology_model.h5
+__pycache__/
+.venv/
+venv/
