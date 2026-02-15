@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sreekarreddy2005/Cancer-Detection-App](https://github.com/Sreekarreddy2005/Cancer-Detection-App)
+    git clone [https://github.com/suryasatwikboddepalli-a11y/Histopathologic-Cancer-Detection-using-Deep-Learning](https://github.com/suryasatwikboddepalli-a11y/Histopathologic-Cancer-Detection-using-Deep-Learning)
     cd Cancer-Detection-App
     ```
 
